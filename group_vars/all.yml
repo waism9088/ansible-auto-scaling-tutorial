@@ -3,8 +3,8 @@
 
 region: us-east-1
 zone: us-east-1a
-keypair: YOUR_KEYPAIR
-security_groups: YOUR_SECURITY_GROUP
+keypair: test
+security_groups: sg-063ce874e8eb8b452
 instance_type: m3.medium
 volumes:
   - device_name: /dev/sda1
